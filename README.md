@@ -9,4 +9,4 @@
 ## Usage
 
 1. Add the bucket with `scoop bucket add v https://github.com/sbolch/ScoopV.git`
-2. Install V with `scoop install v`
+2. Install V with `scoop install v` or `scoop install v-weekly`
