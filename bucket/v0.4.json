@@ -8,9 +8,9 @@
     "bin": "v.exe",
     "checkver": {
         "url": "https://github.com/vlang/v/releases/latest",
-        "regex": "/releases/tag/(.*)"
+        "regex": "/releases/tag/([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/vlang/v/releases/latest/download/v_windows.zip"
+        "url": "https://github.com/vlang/v/releases/download/$version/v_windows.zip"
     }
 }
