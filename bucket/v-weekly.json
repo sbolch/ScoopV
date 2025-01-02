@@ -1,0 +1,16 @@
+{
+    "version": "2024.53",
+    "description": "The V Programming Language",
+    "homepage": "https://vlang.io",
+    "license": "MIT",
+    "url": "https://github.com/vlang/v/releases/download/weekly.2024.53/v_windows.zip",
+    "extract_dir": "v",
+    "bin": "v.exe",
+    "checkver": {
+        "url": "https://github.com/vlang/v/releases/latest",
+        "regex": "/releases/tag/weekly\\.([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/vlang/v/releases/download/weekly.$version/v_windows.zip"
+    }
+}
