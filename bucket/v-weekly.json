@@ -1,9 +1,9 @@
 {
-    "version": "2025.24",
+    "version": "2025.25",
     "description": "The V Programming Language",
     "homepage": "https://vlang.io",
     "license": "MIT",
-    "url": "https://github.com/vlang/v/releases/download/weekly.2025.24/v_windows.zip",
+    "url": "https://github.com/vlang/v/releases/download/weekly.2025.25/v_windows.zip",
     "extract_dir": "v",
     "bin": "v.exe",
     "checkver": {
