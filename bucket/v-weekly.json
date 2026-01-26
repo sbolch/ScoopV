@@ -1,9 +1,9 @@
 {
-    "version": "2026.04",
+    "version": "2026.05",
     "description": "The V Programming Language",
     "homepage": "https://vlang.io",
     "license": "MIT",
-    "url": "https://github.com/vlang/v/releases/download/weekly.2026.04/v_windows.zip",
+    "url": "https://github.com/vlang/v/releases/download/weekly.2026.05/v_windows.zip",
     "extract_dir": "v",
     "bin": "v.exe",
     "checkver": {
